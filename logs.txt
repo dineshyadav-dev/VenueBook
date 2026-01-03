@@ -1,0 +1,9 @@
+2026-01-03:
+- Worked on GitHub push issue
+- Learned about Personal Access Tokens
+- Cleared old credentials
+- learn how to do flask setup there folder structure.
+- Python concepts like list comprehension, filter, reduce, etc.
+
+
+
