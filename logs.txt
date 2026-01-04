@@ -1,9 +1,14 @@
 2026-01-03:
 - Worked on GitHub push issue
 - Learned about Personal Access Tokens
+    Command- git remote set-url origin https://<USERNAME>:<PAT>@github.com/dineshyadav-dev/VenueBook.git
 - Cleared old credentials
 - learn how to do flask setup there folder structure.
 - Python concepts like list comprehension, filter, reduce, etc.
 
-
+2026-01-04:
+-Learn Python Concepts like Closure,Decorators, Genrators, etc.
+-Learn How to Run flask Python Project by using Which Command
+-install postgresql and setup all those configurations
+-create database on dbeaver and insall
 
